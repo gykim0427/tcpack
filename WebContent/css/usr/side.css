@@ -1,0 +1,24 @@
+#sideDiv {
+	width : 70%;
+	height : 70%;
+	position:relative;
+	background-color: "yellow";
+}
+.sideDivInner {
+	width : 200px;
+	position : absolute;
+	left: 55%;
+	background-color: "green";
+}
+#side2Div {
+	width : 70%;
+	height : 70%;
+	position:relative;
+	background-color: "yellow";
+}
+.side2DivInner {
+	width : 250px;
+	position : absolute;
+	left: 55%;
+	background-color: "green";
+}

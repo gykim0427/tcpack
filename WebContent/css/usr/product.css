@@ -1,0 +1,104 @@
+.productDiv{
+	width : 100%;
+	height : 1500px;
+	position:relative;
+	/* background-color: #E0E0E0; */
+	/* background-color: white; */
+	/* background-color: yellow; */
+}
+.sideDiv {
+	width : 700px;
+	height : 1300px;
+	position:absolute;
+	top: 10%;
+	float: left;
+	/* background-color: white; */
+	/* background-color: #E0E0E0; */
+}
+.productDivInner {
+	width : 1400px;
+	height : 1300px;
+	left : 25%;
+	top : 5%;
+	position:absolute;
+	float: left;
+	/* background-color: #E0E0E0; */
+	/* background-color: white; */
+}
+.productImgExt {
+	width : 800px;
+	height : 650px;
+	left : 20%;
+	float : left;
+	/* background-color: white; */
+}
+.productUlDiv {
+	width: 400px;
+	margin:0 auto;
+}
+.productH4 {
+    font-size: 30px;
+    color: #1057a9;
+    font-weight: 600;
+    border-bottom: 3px solid #222;
+    padding-bottom: 10px;
+}
+.productUl {
+    margin-top: 20px;
+    border-bottom: 3px solid #222;
+    padding-bottom: 10px;
+    list-style:none;
+    padding-left:0px;
+}
+.productUl li:first-child {
+    border-bottom: 1px solid #222;
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+.productUl li {
+    border-bottom: 1px dotted gray;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.productTableDiv {
+	width : 1000px;
+}
+.productTable {
+	width : 800px;
+	margin : 0 auto;
+	border-color: white;
+}
+.productTableThead {
+	text-align: center;
+	background-color: #0080FF;
+	color : white;
+	font-size : 18px;
+}
+.productEvenTr {
+	background-color: #99CCFF;
+	font-size : 16px;
+}
+.productOddTr {
+	background-color: #CCE5FF;
+	font-size : 16px;
+}
+.productTableTd {
+	text-align: center;
+}
+.productVideoDiv {
+	width : 1000px;
+}
+.productImgDiv {
+	width : 1000px;
+}
+.productImgInnerDiv {
+	width : 800px;
+	margin : 0 auto;
+}
+.packImgDiv {
+	width : 1000px;
+}
+.packImgInnerDiv {
+	width : 800px;
+	margin : 0 auto;  
+}

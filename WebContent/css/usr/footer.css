@@ -1,0 +1,11 @@
+.includeFooter {
+	height : 100%;
+	width : 100%;
+	background-color: #E0E0E0;
+}
+
+.footerContent {
+    width:600px;
+    height:70px;
+	margin:0 auto;
+}
